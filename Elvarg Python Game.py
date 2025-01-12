@@ -73,8 +73,8 @@ def player_move(current_room):
 
 # Rune Scape Easter egg
 def easteregg():
-    egg = 'This book tells of Elvarg doing nothing in a cave somewhere called Gilenor.....\n\
-It\'s not that good of a quest.....\nBut free nonetheless.'
+    egg = 'This book tells tales of Elvarg doing nothing in a cave from Gilenor.....\n\
+It\'s an okay quest.....\n'
     for char in egg:
         print(char, end='')
         time.sleep(.05)
