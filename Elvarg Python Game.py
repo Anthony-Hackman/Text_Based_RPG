@@ -71,7 +71,7 @@ def player_move(current_room):
             return current_room
 
 
-# Rune Scape Easter egg
+# RuneScape Easter egg
 def easteregg():
     egg = 'This book tells tales of Elvarg doing nothing in a cave from Gilenor.....\n\
 It\'s an okay quest.....\n'
